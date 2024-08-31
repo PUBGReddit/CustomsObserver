@@ -33,7 +33,7 @@ Follow this short guide to set up custom team logos in PUBG:
 ### Step 1: Download the needed files
  - Download all the necessary files from the provided source.  
  Select the dropdown next to the Code button, followed by Download ZIP
-![alt text](how-To/Download.png)
+![Download](how-To/Download.png)
 
 ### Step 2: Extract the Files
 - Extract all the files on your computer.
@@ -43,9 +43,9 @@ Follow this short guide to set up custom team logos in PUBG:
 This will bring you to the configuration folder of PUBG.
 - Move the extracted folder to this location.
 - Rename the extracted folder to `Observer`.
-![alt text](how-To/FolderStructure.png)
+![FolderStructure](how-To/FolderStructure.png)
 - Validate the content of the folder looks like   
-![alt text](How-To/ObserverFolder.png)
+![ObserverFolder](How-To/ObserverFolder.png)
 
 ### Step 4: Start PUBG
 - Start PUBG. The observer files are loaded when starting PUBG. If you added or changed the files while PUBG is open, you must restart PUBG.
