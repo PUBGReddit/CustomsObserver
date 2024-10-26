@@ -1,14 +1,14 @@
 # PUBG Custom Team Logos Setup Guide
 
 PUBG allows any player to add custom Team Logos to their games using what is called the `Observer File`.   
-This will add the logo to the corresponding teams in the KillFeed.  
+This will add the logo to the corresponding teams in the killfeed.  
 
 If you are an Observer while spectating Esport/Custom games, you will also see the team names and tags.
 
 # Observer Folder
-The Observer folder is a folder container the logos and configurations which the game understands and loads.  
-For PUBG to load everything correctly, the observer folder MUST be place in the correct location before starting the game.   
-You can follow the How-To guide to learn on how to download and configure your own game to use the PUBG Reddit's custom teams.
+The Observer folder is a folder containing the logos and configurations which the game understands and loads.  
+For PUBG to load everything correctly, the observer folder MUST be placed in the correct location before starting the game.   
+You can follow the How-To guide to learn on how to download and configure your own game to use PUBG Reddit's custom teams.
 
 
 ## How-To (Terminal & Git Clone)
